@@ -1,4 +1,4 @@
-# Hello Nature Clone Coding
+# Hello Nature
 
 ### 1. 제작 기간 & 팀원 소개
 
