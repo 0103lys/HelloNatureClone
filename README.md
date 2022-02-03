@@ -96,12 +96,18 @@
     * 비밀번호 찾기
  
 
-## 6. API 명세
-|**페이지**|주소|
-|:---:|---|
-| `어드민` |http://127.0.0.1:8080/admin/|
-| `유저` ( 메인 ) |http://127.0.0.1:8080/user/index|
-| `유저` ( 회원가입 )  |http://127.0.0.1:8080/user/mypage_userRegist|
-| `유저` ( 로그인 )  |http://127.0.0.1:8080/user/mypage_userLogin|
-| `유저` ( 매거진 )  |http://127.0.0.1:8080/user/magazine|
-| `유저` ( 고객센터 ) |http://127.0.0.1:8080/user/mypage_center|
+## 6. 주요 API 명세
+`어드민`
+|**기능**|설명|URL|
+|:---:|:---:|---|
+| <img src="https://img.shields.io/badge/POST-75E6B9.svg?style=for-the-badge&logo=POST&logoColor=white"/> |상품등록|/api/product/create|
+| <img src="https://img.shields.io/badge/PUT-FFD239.svg?style=for-the-badge&logo=PUT&logoColor=white"/>|상품수정|/api/product/update|
+| <img src="https://img.shields.io/badge/DELETE-ED1C24.svg?style=for-the-badge&logo=DELETE&logoColor=white"/> |상품삭제|/api/product/delete/{idx}|
+| <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |상품 리스트 조회|/api/product/list|
+
+`유저`
+|**기능**|설명|URL|
+|:---:|:---:|---|
+| <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |상품조회|/api/product/read/{idx}|
+| <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |메인 페이지 상품 리스트|/api/product/user/list|
+
