@@ -61,7 +61,7 @@ public class CkEditorsController {
 
         FileCopyUtils.copy(upload.getInputStream(), new FileOutputStream(files2.getPath()+File.separator+randomfilename));
 
-        String ckUploadPath = "C:/Users/이예솔/Desktop/새 폴더 (2)/src/main/resources/static/uploads/CKimg/product/" + randomfilename;
+        String ckUploadPath = "C:/Users/이예솔/Desktop/HelloNatureClone/src/main/resources/static/uploads/CKimg/product/" + randomfilename;
         upload.transferTo(new File(ckUploadPath));
 
         return "/uploads/CKimg/product/" + randomfilename;
@@ -109,7 +109,7 @@ public class CkEditorsController {
 
         FileCopyUtils.copy(upload.getInputStream(), new FileOutputStream(files2.getPath()+File.separator+randomfilename));
 
-        String ckUploadPath = "C:/Users/이예솔/Desktop/새 폴더 (2)/src/main/resources/static/uploads/CKimg/magazine/" + randomfilename;
+        String ckUploadPath = "C:/Users/이예솔/Desktop/HelloNatureClone/src/main/resources/static/uploads/CKimg/magazine/" + randomfilename;
         upload.transferTo(new File(ckUploadPath));
 
         return "/uploads/CKimg/magazine/" + randomfilename;
@@ -157,7 +157,7 @@ public class CkEditorsController {
 
         FileCopyUtils.copy(upload.getInputStream(), new FileOutputStream(files2.getPath()+File.separator+randomfilename));
 
-        String ckUploadPath = "C:/Users/이예솔/Desktop/새 폴더 (2)/src/main/resources/static/uploads/CKimg/popupstore/" + randomfilename;
+        String ckUploadPath = "C:/Users/이예솔/Desktop/HelloNatureClone/src/main/resources/static/uploads/CKimg/popupstore/" + randomfilename;
         upload.transferTo(new File(ckUploadPath));
 
         return "/uploads/CKimg/popupstore/" + randomfilename;
