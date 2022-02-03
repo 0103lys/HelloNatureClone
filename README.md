@@ -97,7 +97,7 @@
  
 
 ## 6. 주요 API 명세
-`어드민`
+`ADMIN`
 |**기능**|설명|URL|
 |:---:|:---:|---|
 | <img src="https://img.shields.io/badge/POST-75E6B9.svg?style=for-the-badge&logo=POST&logoColor=white"/> |상품등록|/api/product/create|
@@ -105,7 +105,7 @@
 | <img src="https://img.shields.io/badge/DELETE-ED1C24.svg?style=for-the-badge&logo=DELETE&logoColor=white"/> |상품삭제|/api/product/delete/{idx}|
 | <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |상품 리스트 조회|/api/product/list|
 
-`유저`
+`USER`
 |**기능**|설명|URL|
 |:---:|:---:|---|
 | <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |상품조회|/api/product/read/{idx}|
