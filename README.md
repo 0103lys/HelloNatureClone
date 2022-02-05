@@ -14,9 +14,9 @@
 <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=Spring Boot&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=spring Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+<img src="https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
 <img src="https://img.shields.io/badge/axios-black.svg?style=for-the-badge&logo=axios&logoColor=white"/>
 
