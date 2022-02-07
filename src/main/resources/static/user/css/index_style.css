@@ -242,7 +242,7 @@ body { background-color: #fff; margin: 0; width: 100%; font-family: 'Noto Sans K
 #magazine_list_1 .magezine2_wrap { width: 338px; height: 538px; margin-right: 18px; background-color: var(--hello_bg_1); border-radius: 8px;}
 #magazine_list_1 .magezine3_wrap { width: 338px; height: 538px; margin-right: 18px; background-color: var(--hello_bg_1); border-radius: 8px;}
 
-#magazine_list_1 .magezine1_img {background: url(../../uploads/magazine/2021-10-24-03-29-49_20210628173831876.jpg); height: 100%; height: 338px;
+#magazine_list_1 .magezine1_img {background: url(../../uploads/magazine/2022-02-07-22-59-05_20210628173831876.jpg); height: 100%; height: 338px;
     display: block; margin: 0 auto; background-position: 50% 50%; background-size: cover; transform: scale(1); transition: all 0.3s ease-in-out; border-radius: 8px 8px 0 0 / 8px 8px 0 0;}
 #magazine_list_1 .magezine2_img {background: url(../../uploads/magazine/2021-10-24-04-13-49_20210521141526310.jpg); height: 100%; height: 338px;
     display: block; margin: 0 auto; background-position: 50% 50%; background-size: cover; transform: scale(1); transition: all 0.3s ease-in-out; border-radius: 8px 8px 0 0 / 8px 8px 0 0;}
@@ -1117,10 +1117,10 @@ body { background-color: #fff; margin: 0; width: 100%; font-family: 'Noto Sans K
 .item_img_steak_8 { background: url(../../uploads/product/2021-10-20-19-27-53_026469_001_22.jpg); }
 
 /* index.html - MD 추천 */
-.item_img_md_1 { background: url(../../uploads/product/2021-10-21-02-49-00_014788_001_22.jpg); }
-.item_img_md_2 { background: url(../../uploads/product/2021-10-24-19-49-53_107094_001_22.png); }
-.item_img_md_3 { background: url(../../uploads/product/2021-10-24-04-51-05_027458_001_22.jpg); }
-.item_img_md_4 { background: url(../../uploads/product/2021-10-24-04-47-40_027457_001_22.jpg); }
+.item_img_md_1 { background: url(../../uploads/product/2022-02-07-22-20-04_014788_001_22.jpg); }
+.item_img_md_2 { background: url(../../uploads/product/2022-02-07-22-24-45_107094_001_22.png); }
+.item_img_md_3 { background: url(../../uploads/product/2022-02-07-22-29-49_027458_001_22.jpg); }
+.item_img_md_4 { background: url(../../uploads/product/2022-02-07-22-32-37_027457_001_22.jpg); }
 .item_img_md_5 { background: url(../../uploads/product/2021-10-20-10-11-54_100934_003_22.png); }
 .item_img_md_6 { background: url(../../uploads/product/2021-10-24-21-57-46_027964_003_22.png); }
 .item_img_md_7 { background: url(../../uploads/product/2021-10-24-20-15-52_104395_001_22.png); }
@@ -1137,10 +1137,10 @@ body { background-color: #fff; margin: 0; width: 100%; font-family: 'Noto Sans K
 .item_img_snack_8 { background: url(../../uploads/product/2021-10-24-21-32-41_027965_003_22.png); }
 
 /* recommend_goods_list.html - MD 추천 */
-.item_img_md2_1 { background: url(../../uploads/product/2021-10-22-14-17-38_105706_001_22.png); }
-.item_img_md2_2 { background: url(../../uploads/product/2021-10-22-15-57-12_106859_005_22.png); }
-.item_img_md2_3 { background: url(../../uploads/product/2021-10-22-15-50-26_106864_006_22.png); }
-.item_img_md2_4 { background: url(../../uploads/product/2021-10-24-04-51-05_027458_001_22.jpg); }
+.item_img_md2_1 { background: url(../../uploads/product/2022-02-07-22-20-04_014788_001_22.jpg); }
+.item_img_md2_2 { background: url(../../uploads/product/2022-02-07-22-24-45_107094_001_22.png); }
+.item_img_md2_3 { background: url(../../uploads/product/2022-02-07-22-29-49_027458_001_22.jpg); }
+.item_img_md2_4 { background: url(../../uploads/product/2022-02-07-22-32-37_027457_001_22.jpg); }
 .item_img_md2_5 { background: url(../../uploads/product/2021-10-24-19-49-53_107094_001_22.png); }
 .item_img_md2_6 { background: url(../../uploads/product/2021-10-24-04-47-40_027457_001_22.jpg); }
 .item_img_md2_7 { background: url(../../uploads/product/2021-10-21-02-49-00_014788_001_22.jpg); }
