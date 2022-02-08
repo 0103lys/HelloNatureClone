@@ -112,3 +112,7 @@
 | <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |메인 페이지 상품 리스트|/api/product/user/list|
 
 ## 7. 시연
+* `Main`<br><br>
+![Main](https://user-images.githubusercontent.com/86811852/152951728-95ab5478-6bea-472d-a1eb-ca0d14bb3274.gif)
+
+
