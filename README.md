@@ -114,5 +114,9 @@
 ## 7. 시연
 * `Main`<br><br>
 ![Main](https://user-images.githubusercontent.com/86811852/152951728-95ab5478-6bea-472d-a1eb-ca0d14bb3274.gif)
-* `회원가입`<br><br>
+* `Signup`<br><br>
 ![signup](https://user-images.githubusercontent.com/86811852/153141904-e8ffc695-4b56-486b-8d57-b6896b08d247.gif)
+* `Login`<br><br>
+![login](https://user-images.githubusercontent.com/86811852/153142716-2cfb0f15-71aa-475e-b0b0-9c0ef1b5d65c.gif)
+
+
