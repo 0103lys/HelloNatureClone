@@ -118,5 +118,5 @@
 ![Signup](https://user-images.githubusercontent.com/86811852/153253034-b9c37f98-d6a6-4ad1-8df3-c9effcbe16d9.gif)
 * `Login`<br><br>
 ![login](https://user-images.githubusercontent.com/86811852/153142716-2cfb0f15-71aa-475e-b0b0-9c0ef1b5d65c.gif)
-
+* `Admin`<br><br>
 
