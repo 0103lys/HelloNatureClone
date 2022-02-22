@@ -122,5 +122,5 @@
 * `장바구니`<br><br>
 ![cart](https://user-images.githubusercontent.com/86811852/155098660-35a892a4-0fca-4826-8273-18000b7687dd.gif)
 * `주문서`<br><br>
-![ordersheet](https://user-images.githubusercontent.com/86811852/155098883-ca0962e7-6a00-45d7-ae91-93926372b60b.gif
+![ordersheet](https://user-images.githubusercontent.com/86811852/155098883-ca0962e7-6a00-45d7-ae91-93926372b60b.gif)
 * `헬로페이 카드등록`<br><br>
