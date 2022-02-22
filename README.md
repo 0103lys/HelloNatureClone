@@ -124,6 +124,5 @@
 ![ordersheet](https://user-images.githubusercontent.com/86811852/155098883-ca0962e7-6a00-45d7-ae91-93926372b60b.gif)
 * `헬로페이 카드등록`<br><br>
 ![helloPayCard](https://user-images.githubusercontent.com/86811852/155100309-8d3b65e5-7374-4c78-bbac-83fe3c9be77c.gif)
-<br>
 * `Admin`<br><br>
 ![adminMain](https://user-images.githubusercontent.com/86811852/155099599-7f845260-af1f-425c-ac2a-9f02d56633f6.gif)
