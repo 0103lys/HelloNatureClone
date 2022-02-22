@@ -118,9 +118,11 @@
 ![Signup](https://user-images.githubusercontent.com/86811852/153253034-b9c37f98-d6a6-4ad1-8df3-c9effcbe16d9.gif)
 * `Login`<br><br>
 ![login](https://user-images.githubusercontent.com/86811852/153142716-2cfb0f15-71aa-475e-b0b0-9c0ef1b5d65c.gif)
-* `Admin`<br><br>
 * `장바구니`<br><br>
 ![cart](https://user-images.githubusercontent.com/86811852/155098660-35a892a4-0fca-4826-8273-18000b7687dd.gif)
 * `주문서`<br><br>
 ![ordersheet](https://user-images.githubusercontent.com/86811852/155098883-ca0962e7-6a00-45d7-ae91-93926372b60b.gif)
 * `헬로페이 카드등록`<br><br>
+
+* `Admin`<br><br>
+![adminMain](https://user-images.githubusercontent.com/86811852/155099280-5a4f2d64-72d5-433d-a588-b0686db15de2.gif)
