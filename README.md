@@ -116,6 +116,8 @@
 ![Main](https://user-images.githubusercontent.com/86811852/152951728-95ab5478-6bea-472d-a1eb-ca0d14bb3274.gif)
 * `Signup`<br><br>
 ![Signup](https://user-images.githubusercontent.com/86811852/153253034-b9c37f98-d6a6-4ad1-8df3-c9effcbe16d9.gif)
+  - 인증 문자메세지 확인<br>
+  <img src="https://user-images.githubusercontent.com/86811852/156028119-d8cec334-4730-4298-bc57-c914b382967c.png" width="400px"/>
 * `Login`<br><br>
 ![login](https://user-images.githubusercontent.com/86811852/153142716-2cfb0f15-71aa-475e-b0b0-9c0ef1b5d65c.gif)
 * `장바구니`<br><br>
@@ -130,5 +132,4 @@
 ![productUpload](https://user-images.githubusercontent.com/86811852/156026803-7d967bf1-e4c6-4b68-9822-9b39a2d7c106.gif)
 * `상품등록 Main에서 확인`<br><br>
 ![productUploadMain](https://user-images.githubusercontent.com/86811852/156026922-a776f066-f2d7-40c6-a03b-1ebdeeacb4e9.gif)
-
 
