@@ -126,3 +126,9 @@
 ![helloPayCard](https://user-images.githubusercontent.com/86811852/155100309-8d3b65e5-7374-4c78-bbac-83fe3c9be77c.gif)
 * `Admin`<br><br>
 ![adminMain](https://user-images.githubusercontent.com/86811852/155099599-7f845260-af1f-425c-ac2a-9f02d56633f6.gif)
+* `상품등록(ADMIN)`<br><br>
+![productUpload](https://user-images.githubusercontent.com/86811852/156026803-7d967bf1-e4c6-4b68-9822-9b39a2d7c106.gif)
+* `상품등록 Main에서 확인`<br><br>
+![productUploadMain](https://user-images.githubusercontent.com/86811852/156026922-a776f066-f2d7-40c6-a03b-1ebdeeacb4e9.gif)
+
+
