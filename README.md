@@ -95,8 +95,9 @@
     * 이메일 찾기
     * 비밀번호 찾기
  
+## 6. 프로젝트 진행순서
 
-## 6. 주요 API 명세
+## 7. 주요 API 명세
 `ADMIN`
 |**기능**|설명|URL|
 |:---:|:---:|---|
@@ -111,7 +112,7 @@
 | <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |상품조회|/api/product/read/{idx}|
 | <img src="https://img.shields.io/badge/GET-7DDEFF.svg?style=for-the-badge&logo=GET&logoColor=white"/> |메인 페이지 상품 리스트|/api/product/user/list|
 
-## 7. 시연
+## 8. 시연
 * `Main`<br><br>
 ![Main](https://user-images.githubusercontent.com/86811852/152951728-95ab5478-6bea-472d-a1eb-ca0d14bb3274.gif)
 * `Signup`<br><br>
