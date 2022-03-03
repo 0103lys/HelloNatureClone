@@ -96,7 +96,37 @@
     * 비밀번호 찾기
  
 ## 6. 프로젝트 진행순서
+- 기존 사이트 분석 후 스토리보드 작성
+![image](https://user-images.githubusercontent.com/86811852/156347815-627a0038-3f8d-4e0c-895d-cef77033e2e7.png)
+![image](https://user-images.githubusercontent.com/86811852/156347800-1819bfb4-0297-4af7-8903-362f1426cb15.png)
+- 스토리보드를 기준으로 테이블과 컬럼을 정의한 테이블 정의서 작성
+- 메인페이지와 어드민에서 필요한 API 정리(요청 URL, 응답 메세지 예시)
+	![image](https://user-images.githubusercontent.com/86811852/156346914-ccc48397-ffac-4b4a-b05d-8a49b5625930.png)
+  ![image](https://user-images.githubusercontent.com/86811852/156346973-eb4a64c9-f859-4362-af97-f95a335d1b34.png)
+- 스토리보드를 기준으로 디자인 및 퍼블리싱
+	헬로네이처에는 웹 사이트를 기준으로 한 디자인이 부족하여 마켓컬리를 참고하여 진행함
 
+- 더미데이터를 활용한 프론트 서버 및 백엔드 서버 구현
+  - 깃을 활용한 협업
+	- 포스트맨을 활용한 API 요청과 응답 확인
+
+
+
+	- 구현 중 문제점
+	검색
+	선택 삭제
+	이미지 업로드 rebuild 문제
+	레시피
+	관련상품
+	장바구니
+	- 해결방안 
+	jsql
+	array
+	create
+	js
+	session storege
+- 오류 점검 및 최종 코드 수정
+- 발표 
 ## 7. 주요 API 명세
 `ADMIN`
 |**기능**|설명|URL|
