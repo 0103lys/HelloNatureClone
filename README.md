@@ -100,6 +100,8 @@
 ![image](https://user-images.githubusercontent.com/86811852/156347815-627a0038-3f8d-4e0c-895d-cef77033e2e7.png)
 ![image](https://user-images.githubusercontent.com/86811852/156347800-1819bfb4-0297-4af7-8903-362f1426cb15.png)
 - 스토리보드를 기준으로 테이블과 컬럼을 정의한 테이블 정의서 작성
+![154220264-c14b2535-413b-4ac9-beaa-197523f046f8](https://user-images.githubusercontent.com/86811852/156556880-baf89619-3ca1-4b7a-93a3-f6b46bb2eff5.png)
+
 - 메인페이지와 어드민에서 필요한 API 정리(요청 URL, 응답 메세지 예시)
 	![image](https://user-images.githubusercontent.com/86811852/156346914-ccc48397-ffac-4b4a-b05d-8a49b5625930.png)
   ![image](https://user-images.githubusercontent.com/86811852/156346973-eb4a64c9-f859-4362-af97-f95a335d1b34.png)
