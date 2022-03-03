@@ -26,6 +26,43 @@
 ## 4. 데이터 관계도
 ![dataModel](https://user-images.githubusercontent.com/86811852/152217508-4a009921-4a62-4fd8-ab5e-1d25deb37146.png)
 
+
+## 5. 프로젝트 진행순서
+#### 스토리보드
+- 기존 사이트 분석 후 스토리보드 작성<br><br>
+![image](https://user-images.githubusercontent.com/86811852/156347815-627a0038-3f8d-4e0c-895d-cef77033e2e7.png)
+![image](https://user-images.githubusercontent.com/86811852/156347800-1819bfb4-0297-4af7-8903-362f1426cb15.png)
+#### 테이블 정의서
+- 스토리보드를 기준으로 테이블과 컬럼을 정의한 테이블 정의서 작성<br><br>
+![154220264-c14b2535-413b-4ac9-beaa-197523f046f8](https://user-images.githubusercontent.com/86811852/156556880-baf89619-3ca1-4b7a-93a3-f6b46bb2eff5.png)
+#### API 문서
+- 메인페이지와 어드민에서 필요한 API 정리(요청 URL, 응답 메세지 예시)<br><br>
+![image](https://user-images.githubusercontent.com/86811852/156346914-ccc48397-ffac-4b4a-b05d-8a49b5625930.png)
+![image](https://user-images.githubusercontent.com/86811852/156346973-eb4a64c9-f859-4362-af97-f95a335d1b34.png)
+#### 디자인 및 퍼블리싱
+- 헬로네이처에는 웹 사이트를 기준으로 한 디자인이 부족하여 마켓컬리를 참고하여 진행함<br><br>
+![image](https://user-images.githubusercontent.com/86811852/156577197-d4212a11-464b-43ea-a3b9-69589f6fa3eb.png)
+#### 더미데이터를 활용한 프론트 서버 및 백엔드 서버 구현
+- 깃을 활용한 협업<br><br>
+![image](https://user-images.githubusercontent.com/86811852/156578520-82dc73cd-fad8-4fae-a3bd-2aa2e2a2d08a.png)
+- 포스트맨을 활용한 API 요청과 응답 확인<br><br>
+![image](https://user-images.githubusercontent.com/86811852/156579212-b4c16320-9edf-475d-9889-30ea4afbdec2.png)
+- 구현 중 문제점
+	- 검색
+	- 선택 삭제
+	- 이미지 업로드 rebuild 문제
+	- 레시피
+ 	- 관련상품
+	- 장바구니
+- 해결방안 
+	- jsql
+	- array
+	- create
+	- js
+	- session storege
+#### 오류 점검 및 최종 코드 수정
+#### 발표
+
 ## 5. 주요 기능
 `ADMIN`
 * 전체 상품 관리
@@ -94,41 +131,8 @@
   * 개인정보수정 
     * 이메일 찾기
     * 비밀번호 찾기
- 
-## 6. 프로젝트 진행순서
-- 기존 사이트 분석 후 스토리보드 작성
-![image](https://user-images.githubusercontent.com/86811852/156347815-627a0038-3f8d-4e0c-895d-cef77033e2e7.png)
-![image](https://user-images.githubusercontent.com/86811852/156347800-1819bfb4-0297-4af7-8903-362f1426cb15.png)
-- 스토리보드를 기준으로 테이블과 컬럼을 정의한 테이블 정의서 작성
-![154220264-c14b2535-413b-4ac9-beaa-197523f046f8](https://user-images.githubusercontent.com/86811852/156556880-baf89619-3ca1-4b7a-93a3-f6b46bb2eff5.png)
-
-- 메인페이지와 어드민에서 필요한 API 정리(요청 URL, 응답 메세지 예시)
-	![image](https://user-images.githubusercontent.com/86811852/156346914-ccc48397-ffac-4b4a-b05d-8a49b5625930.png)
-  ![image](https://user-images.githubusercontent.com/86811852/156346973-eb4a64c9-f859-4362-af97-f95a335d1b34.png)
-- 스토리보드를 기준으로 디자인 및 퍼블리싱
-	헬로네이처에는 웹 사이트를 기준으로 한 디자인이 부족하여 마켓컬리를 참고하여 진행함
-
-- 더미데이터를 활용한 프론트 서버 및 백엔드 서버 구현
-  - 깃을 활용한 협업
-	- 포스트맨을 활용한 API 요청과 응답 확인
 
 
-
-	- 구현 중 문제점
-	검색
-	선택 삭제
-	이미지 업로드 rebuild 문제
-	레시피
-	관련상품
-	장바구니
-	- 해결방안 
-	jsql
-	array
-	create
-	js
-	session storege
-- 오류 점검 및 최종 코드 수정
-- 발표 
 ## 7. 주요 API 명세
 `ADMIN`
 |**기능**|설명|URL|
