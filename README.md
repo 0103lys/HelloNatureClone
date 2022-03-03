@@ -55,7 +55,7 @@
  	- 관련상품
 	- 장바구니
 - 해결방안 
-	- jsql
+	- jpql
 	- array
 	- create
 	- js
