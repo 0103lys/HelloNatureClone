@@ -47,19 +47,13 @@
 ![image](https://user-images.githubusercontent.com/86811852/156578520-82dc73cd-fad8-4fae-a3bd-2aa2e2a2d08a.png)
 - 포스트맨을 활용한 API 요청과 응답 확인<br><br>
 ![image](https://user-images.githubusercontent.com/86811852/156579212-b4c16320-9edf-475d-9889-30ea4afbdec2.png)
-- 구현 중 문제점
-	- 검색
-	- 선택 삭제
+- 구현 중 문제점과 해결방안
+	- 어드민에서 상품, 공지사항, 상품후기 등 조건에 맞게 JPA에서 제공하는 쿼리방법 중 하나인 jpql을 통해 검색할 수 있도록 함
+	- 어드민에서 (공지사항, 매거진, 상품..)목록을 조회하고 선택 삭제 기능을 추가
 	- 이미지 업로드 rebuild 문제
-	- 레시피
- 	- 관련상품
+	- 웹에서 다소 불편한 매거진 UI/UX를 
+ 	- 관련상품을 드래그 해서 봐야하는 불편함을 js로 버튼을 추가하여 슬라이드 할 수 있도록 변경
 	- 장바구니
-- 해결방안 
-	- jpql
-	- array
-	- create
-	- js
-	- session storege
 #### 오류 점검 및 최종 코드 수정
 #### 발표
 
