@@ -39,7 +39,7 @@
 - 메인페이지와 어드민에서 필요한 API 정리(요청 URL, 응답 메세지 예시)<br><br>
 ![image](https://user-images.githubusercontent.com/86811852/156346914-ccc48397-ffac-4b4a-b05d-8a49b5625930.png)
 ![image](https://user-images.githubusercontent.com/86811852/156346973-eb4a64c9-f859-4362-af97-f95a335d1b34.png)
-#### 디자인 및 퍼블리싱
+#### 디자인 및 퍼블리싱<br><br>
 - 헬로네이처에는 웹 사이트를 기준으로 한 디자인이 부족하여 마켓컬리를 참고하여 진행함<br><br>
 ![image](https://user-images.githubusercontent.com/86811852/156577197-d4212a11-464b-43ea-a3b9-69589f6fa3eb.png)
 #### 더미데이터를 활용한 프론트 서버 및 백엔드 서버 구현
@@ -47,13 +47,16 @@
 ![image](https://user-images.githubusercontent.com/86811852/156578520-82dc73cd-fad8-4fae-a3bd-2aa2e2a2d08a.png)
 - 포스트맨을 활용한 API 요청과 응답 확인<br><br>
 ![image](https://user-images.githubusercontent.com/86811852/156579212-b4c16320-9edf-475d-9889-30ea4afbdec2.png)
-- 구현 중 문제점과 해결방안
-	- 어드민에서 상품, 공지사항, 상품후기 등 조건에 맞게 JPA에서 제공하는 쿼리방법 중 하나인 jpql을 통해 검색할 수 있도록 함
-	- 어드민에서 (공지사항, 매거진, 상품..)목록을 조회하고 선택 삭제 기능을 추가
-	- 이미지 업로드 rebuild 문제
-	- 웹에서 다소 불편한 매거진 UI/UX를 변경
- 	- 관련상품을 드래그 해서 봐야하는 불편함을 js로 버튼을 추가하여 슬라이드 할 수 있도록 변경
-	- 장바구니
+- 구현 중 문제점과 해결방안<br><br>
+	- 어드민에서 상품, 공지사항, 상품후기 등 조건에 맞게 JPA에서 제공하는 쿼리방법 중 하나인 jpql을 통해 검색할 수 있도록 함<br><br>
+	- 어드민에서 (공지사항, 매거진, 상품..)목록을 조회하고 선택 삭제 기능을 추가<br><br>
+	![image](https://user-images.githubusercontent.com/86811852/156678306-383334b0-8f37-43d1-9f2a-0488e025da4c.png)
+	- 이미지 업로드 rebuild 문제<br><br>
+	- 웹에서 다소 불편한 매거진 UI/UX를 변경<br><br>
+	![image](https://user-images.githubusercontent.com/86811852/156676730-440fcf85-4777-4fdc-aa26-ad21f16142cd.png)
+ 	- 관련상품을 드래그 해서 봐야하는 불편함을 js로 버튼을 추가하여 슬라이드 할 수 있도록 변경<br><br>
+ 	![image](https://user-images.githubusercontent.com/86811852/156677439-034e5d29-182e-4f55-9082-3bc8b1a1fab1.png)
+	- 장바구니 UI/UX를 변경<br><br>
 #### 오류 점검 및 최종 코드 수정
 #### 발표
 
