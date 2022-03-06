@@ -63,7 +63,7 @@ public class CategoryService  {
                 }).map(category -> categoryRepository.save(category))
                 .map(category -> response(category))
                 .map(Header::OK)
-                .orElseGet(() -> Header.ERROR("수정 실패"));
+                .orElseGet(() -> Header.ERROR("수정에 실패하였습니다."));
     }
 
 

@@ -49,7 +49,7 @@ public class BrandService {
         return brandRepository.findById(idx)
                 .map(this::response)
                 .map(Header::OK)
-                .orElseGet(()-> Header.ERROR("No data"));
+                .orElseGet(()-> Header.ERROR("정보가 없습니다."));
     }
 
 
@@ -73,7 +73,7 @@ public class BrandService {
                 }).map(brandRepository::save)
                 .map(this::response)
                 .map(Header::OK)
-                .orElseGet(()-> Header.ERROR("수정 실패"));
+                .orElseGet(()-> Header.ERROR("수정에 실패하였습니다."));
     }
 
 
