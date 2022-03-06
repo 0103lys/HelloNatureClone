@@ -74,7 +74,7 @@ public class ProductQuestionService  {
                 }).map(productQuestionRepository::save)
                 .map(this::response)
                 .map(Header::OK)
-                .orElseGet(()-> Header.ERROR("No data"));
+                .orElseGet(()-> Header.ERROR("수정에 실패하였습니다."));
     }
 
 
